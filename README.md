@@ -1,3 +1,1 @@
-# My_site_rimanagi.ru
-# My_site_rimanagi.ru
-# My_site_rimanagi.ru
+# the site is under development, however it shows some my skills
